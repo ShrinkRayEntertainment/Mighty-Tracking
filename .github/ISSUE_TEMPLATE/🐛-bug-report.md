@@ -3,7 +3,7 @@ name: "\U0001F41B Bug report"
 about: Report a problem or unexpected behavior in Mighty Tracking
 title: ''
 labels: bug
-assignees: ''
+assignees: ShrinkRayEntertainment
 
 ---
 

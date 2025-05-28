@@ -3,7 +3,7 @@ name: "✨ Feature request"
 about: Propose a new feature or enhancement
 title: ''
 labels: enhancement
-assignees: ''
+assignees: ShrinkRayEntertainment
 
 ---
 
