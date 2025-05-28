@@ -7,19 +7,13 @@ assignees: ShrinkRayEntertainment
 
 ---
 
-**Asset Version:**  
-e.g. 1.2.3
-
-**Unity Version:**  
-e.g. 2024.1.5f1
-
 **Problem Statement**  
 Briefly describe the gap or pain point you’re experiencing with Mighty Tracking.  
-> e.g. “I want to see collision events overlaid on the heatmap so I can debug impact-heavy sections of my level.”
+> e.g. “I want to see collision events so I can debug impact-heavy sections of my level.”
 
 **Proposed Solution**  
 Describe exactly what you’d like Mighty Tracking to do.  
-> e.g. “Add an optional ‘Collision Heatmap’ layer that plots red dots where collisions occur, sized by impact force.”
+> e.g. “Add an optional ‘Collision’ layer that plots red dots where collisions occur, sized by impact force.”
 
 **Use Case / Scenario**  
 Explain how and where you would use this feature in your project.  
