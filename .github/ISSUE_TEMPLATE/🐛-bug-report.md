@@ -7,14 +7,8 @@ assignees: ShrinkRayEntertainment
 
 ---
 
-**Asset Version:**  
-e.g. 1.2.3
-
-**Unity Version:**  
-e.g. 2024.1.5f1
-
 **Describe the Bug**  
-A clear, concise description of what went wrong in Mighty Tracking.
+A clear, concise description of what went wrong.
 
 **Reproduction Steps**  
 1. Import the Mighty Tracking package into a fresh Unity project.  
